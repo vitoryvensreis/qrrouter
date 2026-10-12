@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+app/config.php
+app/installer-key.php
+storage/*
+!storage/.gitkeep
+!storage/.htaccess
+*.log
+*.bak
+*.zip
+*.pem
+*.key
